@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'CCC DuSable'
+theme = "ananke"
+SectionPagesMenu = "main"
+
+[params]
+  featured_image = "/Img/DuSable.jpg"
+  author = "CCC"
