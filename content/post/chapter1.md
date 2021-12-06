@@ -1,7 +1,7 @@
 ---
 date: 2021-04-09
 description: "Chapter 1 of Moby Dick"
-featured_image: "/Img/MobyDick.jpg"
+featured_image: "/Img/MobyDick.png"
 tags: ["chapter"]
 title: "CHAPTER I. Loomings"
 ---

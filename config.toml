@@ -5,5 +5,5 @@ theme = "ananke"
 SectionPagesMenu = "main"
 
 [params]
-  featured_image = "/Img/DuSable.jpg"
+  featured_image = "/Img/DuSable.png"
   author = "CCC"
