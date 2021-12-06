@@ -11,5 +11,5 @@ googleAnalytics = ""
 enableRobotsTXT = true
 
 [params]
-  featured_image = "/Img/DuSable.png"
+  featured_image = '/Img/DuSable.png'
   author = "CCC"
