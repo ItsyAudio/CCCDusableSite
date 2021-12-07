@@ -1,8 +1,9 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://dusableproject.xyz/'
 languageCode = 'en-us'
 title = 'CCC DuSable'
 theme = "ananke"
 resourceDir = "../resources"
+canonifyURLs = true
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
