@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'CCC DuSable'
 theme = "ananke"
 resourceDir = "../resources"
-canonifyURLs = true
+#canonifyURLs = true
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
