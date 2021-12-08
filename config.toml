@@ -3,20 +3,21 @@ languageCode = 'en-us'
 title = 'CCC DuSable Project'
 theme = "ananke"
 resourceDir = "../resources"
+pluralizeListTitles = 'false'
 
 DefaultContentLanguage = "en"
-# SectionPagesMenu = "main"
+#SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
-
+# Code to Bypass default Menu. Without this Menu would end in plural 
 [menu]
   [[menu.main]]
-    identifier = 'Afro Atlantic'
+    identifier = 'Afro Atlantic History'
     name = 'Afro Atlantic'
     title = 'Afro Atlantic'
-    url = '/Afro Atlantic/'
+    url = '/Afro Atlantic /'
     weight = 1
   [[menu.main]]
    identifier = 'Native American'
@@ -36,8 +37,6 @@ enableRobotsTXT = true
     title = 'Learnings'
     url = '/Learning/'
     weight = 4
-
-
 
 
 [params]
