@@ -1,15 +1,44 @@
 baseURL = 'http://dusableproject.xyz/'
 languageCode = 'en-us'
-title = 'CCC DuSable'
+title = 'CCC DuSable Project'
 theme = "ananke"
 resourceDir = "../resources"
-#canonifyURLs = true
 
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+# SectionPagesMenu = "main"
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+
+
+[menu]
+  [[menu.main]]
+    identifier = 'Afro Atlantic'
+    name = 'Afro Atlantic'
+    title = 'Afro Atlantic'
+    url = '/Afro Atlantic/'
+    weight = 1
+  [[menu.main]]
+   identifier = 'Native American'
+    name = 'Native American'
+    title = 'Native American'
+    url = '/Native American/'
+    weight = 2
+  [[menu.main]]
+    identifier = 'European Contact'
+    name = 'European Contact'
+    title = 'European Contact'
+    url = '/European Contact/'
+    weight = 3
+  [[menu.main]]
+    identifier = 'Learnings'
+    name = 'Learnings'
+    title = 'Learnings'
+    url = '/Learning/'
+    weight = 4
+
+
+
 
 [params]
   featured_image = '/Img/DuSable.png'
