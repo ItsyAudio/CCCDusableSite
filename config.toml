@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'CCC DuSable Project'
 theme = "ananke"
 resourceDir = "../resources"
+# Makes Pages Not Plural
 pluralizeListTitles = 'false'
 
 DefaultContentLanguage = "en"
@@ -37,6 +38,12 @@ enableRobotsTXT = true
     title = 'Learnings'
     url = '/Learning/'
     weight = 4
+  [[menu.main]]
+    identifier = 'Art'
+    name = 'Art'
+    title = 'Art'
+    url = '/Art/'
+    weight = 5
 
 
 [params]
