@@ -7,43 +7,10 @@ resourceDir = "../resources"
 pluralizeListTitles = 'false'
 
 DefaultContentLanguage = "en"
-#SectionPagesMenu = "main"
+SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-
-# Code to Bypass default Menu. Without this Menu would end in plural 
-[menu]
-  [[menu.main]]
-    identifier = 'Afro Atlantic History'
-    name = 'Afro Atlantic'
-    title = 'Afro Atlantic'
-    url = '/Afro Atlantic /'
-    weight = 1
-  [[menu.main]]
-   identifier = 'Native American'
-    name = 'Native American'
-    title = 'Native American'
-    url = '/Native American/'
-    weight = 2
-  [[menu.main]]
-    identifier = 'European Contact'
-    name = 'European Contact'
-    title = 'European Contact'
-    url = '/European Contact/'
-    weight = 3
-  [[menu.main]]
-    identifier = 'Learnings'
-    name = 'Learnings'
-    title = 'Learnings'
-    url = '/Learning/'
-    weight = 4
-  [[menu.main]]
-    identifier = 'Art'
-    name = 'Art'
-    title = 'Art'
-    url = '/Art/'
-    weight = 5
 
 
 [params]
