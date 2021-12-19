@@ -1,12 +1,13 @@
 ---
 date: 2019-12-03
-description: "Dusable Soundscape"
-featured_image: '/Img/MobyDick.png'
+description: "Should we instead rename Chicago’s Lake Shore Drive for a woman named Kitihawa?"
+featured_image: '/Img/natives.jpg'
 tags: ["article"]
 author: RICK KOGAN
 title: "Should we instead rename Chicago’s Lake Shore Drive for a woman named Kitihawa?"
 ---
 
+![Native American Photo](/Img/natives.jpg)
 
 Les Begay, board president, and Heather Miller, executive director of the American Indian Center in the center's archives in Albany Park,. (Kristan Lieb / Chicago Tribune)
 
@@ -65,4 +66,4 @@ So, what to do about Lake Shore Drive?
 Actually, it’s fine as it is. The lake’s been here, well, forever and who knows where we’d be without it?
 
 
-Kogan, R. (2019, December 3). _Should we instead rename Chicago's Lake Shore Drive for a woman named Kitihawa?_ chicagotribune.com. Retrieved December 17, 2021, from [https://www.chicagotribune.com/entertainment/ct-ent-kitihawa-drive-chicago-kogan-1204-20191203-mtwyzk24rrcjpfumlgczcgswsu-story.html](https://www.chicagotribune.com/entertainment/ct-ent-kitihawa-drive-chicago-kogan-1204-20191203-mtwyzk24rrcjpfumlgczcgswsu-story.html) 
+Kogan, R. (2019, December 3). _Should we instead rename Chicago's Lake Shore Drive for a woman named Kitihawa?_ chicagotribune.com. Retrieved December 17, 2021, linked [here](https://www.chicagotribune.com/entertainment/ct-ent-kitihawa-drive-chicago-kogan-1204-20191203-mtwyzk24rrcjpfumlgczcgswsu-story.html).
